@@ -1,2 +1,2 @@
 
-Made different changes.
+Made some changes.
